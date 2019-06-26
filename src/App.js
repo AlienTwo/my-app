@@ -7,7 +7,7 @@ function App() {
 	const [age, setAge] = useState(22);
 
 	useEffect(() => {
-		document.title = `You click ${count} times feature123  test2 test2 123 test squash`
+		document.title = `You click ${count} times develop test`
 	})
 	
 	return (
